@@ -1,14 +1,13 @@
 Development of a simple application in python that performs the following tasks when given an input image: 
 
-i) Print the size and shape of the image. 
-ii) Convert the image into both binary and grayscale formats. 
-iii) Scale the image by reducing its size. 
-iv) Remove any noise from the image.
+i) Print the size and shape of the image.<br>
+ii) Convert the image into both binary and grayscale formats.<br>
+iii) Scale the image by reducing its size.<br>
+iv) Remove any noise from the image.<br>
 
 OUTPUT:
 
-Image Dimensions: (165, 200, 3)
-
+Image Dimensions: (165, 200, 3)<br>
 Image Size: 99000 bytes
 
 original image:
