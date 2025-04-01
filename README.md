@@ -8,6 +8,7 @@ iv) Remove any noise from the image.
 OUTPUT:
 
 Image Dimensions: (165, 200, 3)
+
 Image Size: 99000 bytes
 
 original image:
